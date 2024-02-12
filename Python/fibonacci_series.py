@@ -6,5 +6,5 @@ print(b)
 for i in range(0,usinput):
     c=a+b
     a=b
-    c=b
+    b=c
     print(c)
